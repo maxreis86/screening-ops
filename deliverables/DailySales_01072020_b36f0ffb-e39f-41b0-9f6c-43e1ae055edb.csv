@@ -1,0 +1,29 @@
+Transaction ID,Event Name,Number of Purchased Tickets,Total Amount,Sales Channel,Customer First Name,Customer Last Name,Office Location,Created Date
+1,9,3,27.88,mobile app,David,King,,2020-01-07
+2,b,1,149.35,mobile app,Nathaniel,Wilson,,2020-01-07
+3,d,5,111.88,mobile app,Sara,Schneider,,2020-01-07
+4,6,2,60.25,mobile app,Michael,Nolan,,2020-01-07
+5,a,1,35.36,office,Wayne,Yoder,New York,2020-01-07
+6,c,3,174.22,mobile app,Jean,Webster,,2020-01-07
+7,0,5,78.32,web,Lauren,Benton,,2020-01-07
+8,6,5,55.74,web,Teresa,Gonzalez,,2020-01-07
+9,3,1,31.21,web,Joshua,Carroll,,2020-01-07
+10,f,5,169.58,web,Christopher,Daniel,,2020-01-07
+11,5,1,84.62,web,Miranda,Marshall,,2020-01-07
+12,3,1,152.39,web,Tina,Brown,,2020-01-07
+13,c,5,34.03,web,Justin,Campos,,2020-01-07
+14,b,3,153.0,office,Christopher,Woods,San Francisco,2020-01-07
+15,9,4,147.92,mobile app,Grant,Whitaker,,2020-01-07
+16,b,4,84.44,web,Mark,Garcia,,2020-01-07
+17,5,4,50.01,web,Spencer,Shaw,,2020-01-07
+18,6,5,187.67,office,Michael,Evans,Sydney,2020-01-07
+19,5,3,125.55,web,Neil,Thomas,,2020-01-07
+20,9,3,28.61,web,Kristen,Hoffman,,2020-01-07
+21,5,1,176.54,web,Nicholas,Grant,,2020-01-07
+22,1,1,44.55,office,Zachary,Banks,San Francisco,2020-01-07
+23,5,5,192.57,office,Melissa,Manning,San Francisco,2020-01-07
+24,6,2,196.09,web,Kristen,Watson,,2020-01-07
+25,c,5,98.81,mobile app,Peter,Bowers,,2020-01-07
+26,3,3,63.13,web,Tonya,Austin,,2020-01-07
+27,4,4,77.96,office,Keith,Miller,London,2020-01-07
+28,6,4,76.95,office,Daniel,Torres,Sydney,2020-01-07

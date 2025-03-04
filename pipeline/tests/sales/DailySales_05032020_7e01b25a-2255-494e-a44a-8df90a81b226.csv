@@ -1,0 +1,87 @@
+Transaction ID,Event ID,Event Name,Number of Purchased Tickets,Total Amount,Sales Channel,Customer First Name,Customer Last Name,Office Location,Created Date
+1,,5,3,45.99,web,Michael,Ball,,2020-05-03
+2,,0,3,182.13,mobile app,Michael,Davis,,2020-05-03
+3,,b,3,190.52,mobile app,Jeffrey,Harris,,2020-05-03
+4,,6,1,99.94,mobile app,Shannon,Turner,,2020-05-03
+5,,5,4,55.99,office,Lorraine,Holloway,Sydney,2020-05-03
+6,,b,2,103.16,office,Rose,Carroll,New York,2020-05-03
+7,,8,5,72.73,web,Mary,Perkins,,2020-05-03
+8,,9,1,58.41,mobile app,Peter,Orr,,2020-05-03
+9,,1,4,169.75,office,Megan,Orr,London,2020-05-03
+10,,6,2,189.91,web,Sarah,Flores,,2020-05-03
+11,,8,4,97.11,web,Kimberly,Rodriguez,,2020-05-03
+12,,8,1,79.19,web,Daniel,Boyer,,2020-05-03
+13,,0,2,152.92,office,Linda,Ferrell,Sydney,2020-05-03
+14,,6,4,59.59,web,Tammy,Patrick,,2020-05-03
+15,,d,2,44.65,office,Connie,Morgan,Tokyo,2020-05-03
+16,,b,2,193.21,mobile app,Kenneth,Alexander,,2020-05-03
+17,,0,3,28.79,mobile app,Dennis,Robinson,,2020-05-03
+18,,5,4,89.04,mobile app,Nathan,James,,2020-05-03
+19,,6,3,48.16,web,Brandon,Williams,,2020-05-03
+20,,8,3,132.36,mobile app,Amy,Hoffman,,2020-05-03
+21,,2,1,150.21,web,Karen,Williams,,2020-05-03
+22,,3,4,101.43,web,Kelsey,Hansen,,2020-05-03
+23,,6,3,166.83,web,Keith,Jackson,,2020-05-03
+24,,c,4,60.95,office,Cathy,Wagner,San Francisco,2020-05-03
+25,,0,1,120.04,office,John,Mcclain,London,2020-05-03
+26,,0,1,188.85,office,Kelly,Fernandez,New York,2020-05-03
+27,,8,2,100.47,office,Nathaniel,Parrish,Tokyo,2020-05-03
+28,,6,3,69.17,mobile app,Chad,Bartlett,,2020-05-03
+29,,5,5,86.58,web,Daniel,Turner,,2020-05-03
+30,,5,2,131.85,office,Alicia,Willis,Tokyo,2020-05-03
+31,,3,3,42.18,web,Briana,Jones,,2020-05-03
+32,,2,5,176.78,mobile app,Nicholas,Underwood,,2020-05-03
+33,,8,2,128.24,office,Stephen,Ortiz,Sydney,2020-05-03
+34,,b,4,180.53,office,Wendy,Mullins,London,2020-05-03
+35,,c,3,121.52,web,Linda,Graham,,2020-05-03
+36,,d,1,159.95,office,Austin,Nguyen,Sydney,2020-05-03
+37,,8,3,134.47,mobile app,Willie,Cole,,2020-05-03
+38,,c,3,150.25,office,Cynthia,Martinez,New York,2020-05-03
+39,,7,1,128.57,mobile app,Margaret,Stone,,2020-05-03
+40,,5,5,148.66,office,Kimberly,Myers,Sydney,2020-05-03
+41,,6,4,147.6,office,Christina,Leonard,Tokyo,2020-05-03
+42,,6,2,145.74,web,Anna,Cervantes,,2020-05-03
+43,,8,4,197.74,mobile app,Scott,Garcia,,2020-05-03
+44,,6,3,187.08,web,Thomas,Obrien,,2020-05-03
+45,,d,5,131.7,web,Jill,Ball,,2020-05-03
+46,,7,1,39.71,mobile app,Joshua,Garcia,,2020-05-03
+47,,e,5,146.07,office,Jason,Hurst,San Francisco,2020-05-03
+48,,7,5,90.88,office,Rebecca,Robertson,Tokyo,2020-05-03
+49,,3,2,155.06,office,Alicia,Mayer,London,2020-05-03
+50,,b,4,97.59,office,Richard,Ramos,Tokyo,2020-05-03
+51,,9,4,137.42,mobile app,Michael,Knight,,2020-05-03
+52,,5,5,56.4,web,Peter,Brown,,2020-05-03
+53,,3,3,171.91,mobile app,Ashley,Henson,,2020-05-03
+54,,b,1,71.81,office,Kayla,Mcdonald,Tokyo,2020-05-03
+55,,f,4,160.47,web,Richard,Reynolds,,2020-05-03
+56,,1,4,100.89,web,Anthony,Foster,,2020-05-03
+57,,a,2,88.84,mobile app,Charles,Harrell,,2020-05-03
+58,,4,5,41.5,mobile app,Rita,Reyes,,2020-05-03
+59,,4,1,148.9,mobile app,Desiree,Hanson,,2020-05-03
+60,,d,1,191.94,web,Jill,Romero,,2020-05-03
+61,,4,4,104.15,office,Antonio,Lang,Sydney,2020-05-03
+62,,1,1,198.72,mobile app,Michael,Harris,,2020-05-03
+63,,b,4,114.97,office,Carly,Davies,London,2020-05-03
+64,,2,5,49.33,office,Brandon,Baxter,New York,2020-05-03
+65,,4,5,119.61,office,Nicole,Hampton,New York,2020-05-03
+66,,c,5,40.37,office,Natasha,Ross,San Francisco,2020-05-03
+67,,c,1,75.88,mobile app,Lisa,Smith,,2020-05-03
+68,,e,2,103.49,office,Shannon,Stephenson,London,2020-05-03
+69,,6,2,144.06,web,Heather,Diaz,,2020-05-03
+70,,7,2,129.51,web,Nichole,Gibson,,2020-05-03
+71,,9,3,146.68,office,Michael,Woodard,Sydney,2020-05-03
+72,,e,2,173.12,mobile app,Ross,Hawkins,,2020-05-03
+73,,8,5,42.51,mobile app,Miranda,Lindsey,,2020-05-03
+74,,8,3,20.63,office,Linda,Hale,Sydney,2020-05-03
+75,,3,3,22.22,web,Bonnie,Huber,,2020-05-03
+76,,6,3,195.03,office,Vanessa,Morris,New York,2020-05-03
+77,,0,4,110.0,mobile app,Bradley,Brown,,2020-05-03
+78,,5,1,154.55,web,Thomas,Ramos,,2020-05-03
+79,,3,3,139.93,web,Sean,Payne,,2020-05-03
+80,,6,1,195.95,web,Sharon,Reyes,,2020-05-03
+81,,4,4,98.04,web,Dale,Levy,,2020-05-03
+82,,9,4,50.46,web,Robert,Henderson,,2020-05-03
+83,,3,2,108.06,office,Kenneth,Barnes,Tokyo,2020-05-03
+84,,b,3,140.26,mobile app,Maria,Stuart,,2020-05-03
+85,,e,2,62.54,web,Michelle,Gonzalez,,2020-05-03
+86,,8,3,134.22,mobile app,Amy,Taylor,,2020-05-03
